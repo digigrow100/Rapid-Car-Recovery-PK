@@ -6,25 +6,25 @@ import { QuoteForm } from "@/components/QuoteForm";
 export const metadata: Metadata = {
   title: "Contact Us",
   description:
-    "Contact Rapid Car Recovery by phone or WhatsApp for car recovery, towing, breakdown recovery and more across Sharjah. Call +971 50 242 4637.",
+    "Contact Rapid Car Recovery by phone or WhatsApp for car recovery, towing, breakdown recovery and more across Sharjah. Call +971 54 343 4863.",
 };
 
 const contactMethods = [
   {
     icon: "fa-solid fa-phone",
     title: "Call Us",
-    detail: "+971 50 242 4637",
+    detail: "+971 54 343 4863",
     desc: "Speak directly to our team. Best for urgent roadside situations.",
-    href: "tel:+971502424637",
+    href: "tel:+971543434863",
     cta: "Call Now",
     external: false,
   },
   {
     icon: "fa-brands fa-whatsapp",
     title: "WhatsApp",
-    detail: "+971 50 242 4637",
+    detail: "+971 54 343 4863",
     desc: "Send your location, vehicle details and a brief description and we'll respond as quickly as possible.",
-    href: "https://wa.me/971502424637",
+    href: "https://wa.me/971543434863",
     cta: "Message Us",
     external: true,
   },
@@ -69,11 +69,11 @@ export default function ContactPage() {
               Need car recovery in Sharjah or want to ask a question? Call or WhatsApp us and our team will be in touch.
             </p>
             <div className="flex flex-col justify-center gap-3 sm:flex-row sm:gap-4">
-              <a href="tel:+971502424637" className="btn-pulse rounded-full bg-amber px-5 py-3.5 text-center text-sm font-bold text-ink transition sm:px-7 sm:py-4 sm:text-base">
-                <i className="fa-solid fa-phone mr-2"></i>Call +971 50 242 4637
+              <a href="tel:+971543434863" className="btn-pulse rounded-full bg-amber px-5 py-3.5 text-center text-sm font-bold text-ink transition sm:px-7 sm:py-4 sm:text-base">
+                <i className="fa-solid fa-phone mr-2"></i>Call +971 54 343 4863
               </a>
               <a
-                href="https://wa.me/971502424637"
+                href="https://wa.me/971543434863"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="rounded-full bg-whatsapp px-5 py-3.5 text-center text-sm font-bold text-white transition hover:bg-green-600 sm:px-7 sm:py-4 sm:text-base"
@@ -141,7 +141,7 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <p className="mb-1 text-sm text-white/60">Phone</p>
-                      <a href="tel:+971502424637" className="font-semibold transition hover:text-amber">+971 50 242 4637</a>
+                      <a href="tel:+971543434863" className="font-semibold transition hover:text-amber">+971 54 343 4863</a>
                     </div>
                   </li>
                   <li className="flex items-start gap-4">
@@ -151,12 +151,12 @@ export default function ContactPage() {
                     <div>
                       <p className="mb-1 text-sm text-white/60">WhatsApp</p>
                       <a
-                        href="https://wa.me/971502424637"
+                        href="https://wa.me/971543434863"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="font-semibold transition hover:text-amber"
                       >
-                        +971 50 242 4637
+                        +971 54 343 4863
                       </a>
                     </div>
                   </li>
@@ -232,11 +232,11 @@ export default function ContactPage() {
               Call or WhatsApp us now and our team will respond as quickly as possible.
             </p>
             <div className="flex flex-col justify-center gap-4 sm:flex-row">
-              <a href="tel:+971502424637" className="rounded-full bg-ink px-8 py-4 font-bold text-white transition hover:bg-ink-light">
+              <a href="tel:+971543434863" className="rounded-full bg-ink px-8 py-4 font-bold text-white transition hover:bg-ink-light">
                 <i className="fa-solid fa-phone mr-2"></i>Call Now
               </a>
               <a
-                href="https://wa.me/971502424637"
+                href="https://wa.me/971543434863"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="rounded-full bg-whatsapp px-8 py-4 font-bold text-white transition hover:bg-green-600"

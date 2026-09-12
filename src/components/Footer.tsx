@@ -17,10 +17,10 @@ export function Footer() {
               خدمات سحب واسترجاع السيارات على مدار الساعة لجميع السائقين في إمارة الشارقة.
             </p>
             <div className="flex gap-3">
-              <a href="https://wa.me/971502424637" target="_blank" rel="noopener noreferrer" className="social-circle">
+              <a href="https://wa.me/971543434863" target="_blank" rel="noopener noreferrer" className="social-circle">
                 <i className="fab fa-whatsapp"></i>
               </a>
-              <a href="tel:+971502424637" className="social-circle">
+              <a href="tel:+971543434863" className="social-circle">
                 <i className="fa-solid fa-phone"></i>
               </a>
             </div>
@@ -32,12 +32,12 @@ export function Footer() {
             <div className="space-y-1">
               <div className="info-row">
                 <i className="fa-solid fa-phone mt-0.5 shrink-0 text-amber"></i>
-                <a href="tel:+971502424637" className="transition hover:text-white">+971 50 242 4637</a>
+                <a href="tel:+971543434863" className="transition hover:text-white">+971 54 343 4863</a>
               </div>
               <div className="info-row">
                 <i className="fab fa-whatsapp mt-0.5 shrink-0 text-amber"></i>
-                <a href="https://wa.me/971502424637" target="_blank" rel="noopener noreferrer" className="transition hover:text-white">
-                  +971 50 242 4637
+                <a href="https://wa.me/971543434863" target="_blank" rel="noopener noreferrer" className="transition hover:text-white">
+                  +971 54 343 4863
                 </a>
               </div>
               <div className="info-row">

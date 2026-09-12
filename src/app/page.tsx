@@ -91,13 +91,13 @@ export default function Home() {
               </p>
               <div className="mb-7 flex flex-col gap-3 sm:mb-10 sm:flex-row sm:gap-4">
                 <a
-                  href="tel:+971502424637"
+                  href="tel:+971543434863"
                   className="btn-pulse flex min-h-[52px] w-full items-center justify-center rounded-full bg-amber px-6 py-4 text-center text-sm font-bold text-ink transition sm:w-auto sm:px-7 sm:text-base"
                 >
-                  <i className="fa-solid fa-phone mr-2"></i>Call +971 50 242 4637
+                  <i className="fa-solid fa-phone mr-2"></i>Call +971 54 343 4863
                 </a>
                 <a
-                  href="https://wa.me/971502424637"
+                  href="https://wa.me/971543434863"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex min-h-[52px] w-full items-center justify-center rounded-full bg-whatsapp px-6 py-4 text-center text-sm font-bold text-white transition hover:bg-green-600 sm:w-auto sm:px-7 sm:text-base"
@@ -207,7 +207,7 @@ export default function Home() {
                 </div>
               </div>
               <div className="flex flex-col gap-3 sm:flex-row">
-                <a href="tel:+971502424637" className="rounded-full bg-ink px-7 py-4 text-center font-bold text-white transition hover:bg-ink-light">
+                <a href="tel:+971543434863" className="rounded-full bg-ink px-7 py-4 text-center font-bold text-white transition hover:bg-ink-light">
                   <i className="fa-solid fa-phone mr-2"></i>Call Us Now
                 </a>
                 <a href="/about" className="rounded-full border-2 border-ink px-7 py-4 text-center font-bold text-ink transition hover:bg-ink hover:text-white">
@@ -250,13 +250,13 @@ export default function Home() {
                     <p className="mb-5 flex-1 text-slate-400">{service.desc}</p>
                     <div className="mt-auto flex gap-3">
                       <a
-                        href="tel:+971502424637"
+                        href="tel:+971543434863"
                         className="flex-1 rounded-full bg-amber px-4 py-2.5 text-center text-sm font-bold text-ink transition hover:bg-amber-dark"
                       >
                         <i className="fa-solid fa-phone mr-1.5"></i>Call Now
                       </a>
                       <a
-                        href="https://wa.me/971502424637"
+                        href="https://wa.me/971543434863"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="flex-1 rounded-full bg-whatsapp px-4 py-2.5 text-center text-sm font-bold text-white transition hover:bg-green-600"
@@ -378,11 +378,11 @@ export default function Home() {
               Call Rapid Car Recovery or message us on WhatsApp for immediate car recovery and towing across Sharjah.
             </p>
             <div className="flex flex-col justify-center gap-4 sm:flex-row">
-              <a href="tel:+971502424637" className="btn-pulse rounded-full bg-amber px-8 py-4 font-bold text-ink transition">
-                <i className="fa-solid fa-phone mr-2"></i>Call +971 50 242 4637
+              <a href="tel:+971543434863" className="btn-pulse rounded-full bg-amber px-8 py-4 font-bold text-ink transition">
+                <i className="fa-solid fa-phone mr-2"></i>Call +971 54 343 4863
               </a>
               <a
-                href="https://wa.me/971502424637"
+                href="https://wa.me/971543434863"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="rounded-full bg-whatsapp px-8 py-4 font-bold text-white transition hover:bg-green-600"
