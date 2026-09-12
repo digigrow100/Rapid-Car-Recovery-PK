@@ -21,7 +21,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   return {
     title: service.title,
-    description: `${service.desc} Call +971 50 242 4637 for ${service.title} anywhere in Sharjah.`,
+    description: `${service.desc} Call +971 54 343 4863 for ${service.title} anywhere in Sharjah.`,
   };
 }
 
@@ -71,11 +71,11 @@ export default async function ServiceDetailPage({ params }: Props) {
             <p className="ar mb-4 text-white/70">{service.titleAr}</p>
             <p className="mb-5 max-w-2xl text-base text-white/80 sm:mb-8 sm:text-lg">{service.desc}</p>
             <div className="flex flex-col gap-3 sm:flex-row sm:gap-4">
-              <a href="tel:+971502424637" className="btn-pulse rounded-full bg-amber px-5 py-3.5 text-center text-sm font-bold text-ink transition sm:px-7 sm:py-4 sm:text-base">
-                <i className="fa-solid fa-phone mr-2"></i>Call +971 50 242 4637
+              <a href="tel:+971543434863" className="btn-pulse rounded-full bg-amber px-5 py-3.5 text-center text-sm font-bold text-ink transition sm:px-7 sm:py-4 sm:text-base">
+                <i className="fa-solid fa-phone mr-2"></i>Call +971 54 343 4863
               </a>
               <a
-                href="https://wa.me/971502424637"
+                href="https://wa.me/971543434863"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="rounded-full bg-whatsapp px-5 py-3.5 text-center text-sm font-bold text-white transition hover:bg-green-600 sm:px-7 sm:py-4 sm:text-base"
@@ -114,11 +114,11 @@ export default async function ServiceDetailPage({ params }: Props) {
                 ))}
               </ul>
               <div className="mt-8 flex flex-col gap-3 sm:flex-row">
-                <a href="tel:+971502424637" className="rounded-full bg-ink px-7 py-4 text-center font-bold text-white transition hover:bg-ink-light">
+                <a href="tel:+971543434863" className="rounded-full bg-ink px-7 py-4 text-center font-bold text-white transition hover:bg-ink-light">
                   <i className="fa-solid fa-phone mr-2"></i>Call Now
                 </a>
                 <a
-                  href="https://wa.me/971502424637"
+                  href="https://wa.me/971543434863"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="rounded-full bg-whatsapp px-7 py-4 text-center font-bold text-white transition hover:bg-green-600"
@@ -189,11 +189,11 @@ export default async function ServiceDetailPage({ params }: Props) {
             <h2 className="mb-5 text-3xl font-extrabold lg:text-5xl">Need {service.title}?</h2>
             <p className="mb-8 text-lg text-ink/80">Call or WhatsApp us now and our team will respond as quickly as possible.</p>
             <div className="flex flex-col justify-center gap-4 sm:flex-row">
-              <a href="tel:+971502424637" className="rounded-full bg-ink px-8 py-4 font-bold text-white transition hover:bg-ink-light">
+              <a href="tel:+971543434863" className="rounded-full bg-ink px-8 py-4 font-bold text-white transition hover:bg-ink-light">
                 <i className="fa-solid fa-phone mr-2"></i>Call Now
               </a>
               <a
-                href="https://wa.me/971502424637"
+                href="https://wa.me/971543434863"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="rounded-full bg-whatsapp px-8 py-4 font-bold text-white transition hover:bg-green-600"

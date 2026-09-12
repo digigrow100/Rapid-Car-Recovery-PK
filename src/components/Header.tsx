@@ -99,13 +99,13 @@ export function Header({ activePath = "/" }: { activePath?: string }) {
 
           <div className="hidden items-center gap-3 lg:flex">
             <a
-              href="tel:+971502424637"
+              href="tel:+971543434863"
               className="pulse-cta rounded-full bg-amber px-5 py-3 text-sm font-bold text-ink transition hover:bg-amber-dark"
             >
               <i className="fa-solid fa-phone mr-2"></i>Call Now
             </a>
             <a
-              href="https://wa.me/971502424637"
+              href="https://wa.me/971543434863"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-full bg-whatsapp px-5 py-3 text-sm font-bold text-white transition hover:bg-green-600"
@@ -185,14 +185,14 @@ export function Header({ activePath = "/" }: { activePath?: string }) {
                 </a>
               ))}
               <a
-                href="tel:+971502424637"
+                href="tel:+971543434863"
                 className="mt-2 rounded-xl bg-amber px-5 py-3 text-center font-bold text-ink"
                 onClick={() => setIsMenuOpen(false)}
               >
                 <i className="fa-solid fa-phone mr-2"></i>Call Now
               </a>
               <a
-                href="https://wa.me/971502424637"
+                href="https://wa.me/971543434863"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="rounded-xl bg-whatsapp px-5 py-3 text-center font-bold text-white"

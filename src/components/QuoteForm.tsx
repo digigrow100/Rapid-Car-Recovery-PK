@@ -2,7 +2,7 @@
 
 import { useRef, useState } from "react";
 
-const WHATSAPP_NUMBER = "971502424637";
+const WHATSAPP_NUMBER = "971543434863";
 
 const SERVICE_OPTIONS = [
   "Car Recovery Sharjah",
@@ -112,8 +112,8 @@ export function QuoteForm({ variant = "light" }: QuoteFormProps) {
       {isHero && (
         <p className="mt-4 text-center text-xs text-white/60">
           Or call us directly:{" "}
-          <a href="tel:+971502424637" className="font-bold text-amber transition hover:text-white">
-            +971 50 242 4637
+          <a href="tel:+971543434863" className="font-bold text-amber transition hover:text-white">
+            +971 54 343 4863
           </a>
         </p>
       )}
