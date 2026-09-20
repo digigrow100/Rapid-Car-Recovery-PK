@@ -100,8 +100,8 @@ export default async function ServiceDetailPage({ params }: Props) {
               />
               {service.slug === "jumpstart-service-sharjah" && (
                 <Image
-                  src="/images/flat-battery-assistance-1448x1086.webp"
-                  alt="Flat battery assistance in Sharjah"
+                  src="/images/jump-start-night.webp"
+                  alt="Jumpstart service at night in Sharjah"
                   width={900}
                   height={600}
                   className="mt-6 w-full rounded-3xl object-cover shadow-xl"

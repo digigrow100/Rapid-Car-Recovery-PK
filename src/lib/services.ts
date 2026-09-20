@@ -47,7 +47,7 @@ export const services: Service[] = [
   {
     slug: "jumpstart-service-sharjah",
     icon: "fa-solid fa-car-battery",
-    img: "/images/portable-jump-starter-in-engine-bay-1448x1086.webp",
+    img: "/images/jump-start-day.webp",
     title: "Jumpstart Service Sharjah",
     titleAr: "خدمة تشغيل البطارية في الشارقة",
     desc: "A flat battery won't slow you down for long — our team jumpstarts your car on the spot, anywhere in Sharjah.",
