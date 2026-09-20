@@ -98,6 +98,15 @@ export default async function ServiceDetailPage({ params }: Props) {
                 priority
                 className="min-h-[320px] w-full rounded-3xl object-cover shadow-2xl"
               />
+              {service.slug === "jumpstart-service-sharjah" && (
+                <Image
+                  src="/images/jump-start-night.webp"
+                  alt="Jumpstart service at night in Sharjah"
+                  width={900}
+                  height={600}
+                  className="mt-6 w-full rounded-3xl object-cover shadow-xl"
+                />
+              )}
             </div>
             <div className="reveal">
               <p className="mb-3 font-bold text-amber-dark">About This Service</p>

@@ -7,7 +7,7 @@ const WHATSAPP_NUMBER = "971543434863";
 const SERVICE_OPTIONS = [
   "Car Recovery Sharjah",
   "Towing Service Sharjah",
-  "24 Hour Car Recovery Sharjah",
+  "Jumpstart Service Sharjah",
   "Emergency Towing Sharjah",
   "Roadside Assistance Sharjah",
   "Breakdown Recovery Sharjah",
