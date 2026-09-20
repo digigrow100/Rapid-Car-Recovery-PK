@@ -9,7 +9,7 @@ import { services as allServices } from "@/lib/services";
 const tickerItems = [
   { icon: "fa-solid fa-truck-pickup", text: "Car Recovery Sharjah" },
   { icon: "fa-solid fa-truck-ramp-box", text: "Towing Service Sharjah" },
-  { icon: "fa-solid fa-clock", text: "24 Hour Car Recovery Sharjah" },
+  { icon: "fa-solid fa-car-battery", text: "Jumpstart Service Sharjah" },
   { icon: "fa-solid fa-triangle-exclamation", text: "Emergency Towing Sharjah" },
   { icon: "fa-solid fa-road", text: "Roadside Assistance Sharjah" },
   { icon: "fa-solid fa-car-burst", text: "Breakdown Recovery Sharjah" },
@@ -20,7 +20,7 @@ const tickerItems = [
 const strip = [
   { icon: "fa-solid fa-truck-pickup", label: "Car Recovery", labelAr: "استرجاع السيارات" },
   { icon: "fa-solid fa-truck-ramp-box", label: "Towing Service", labelAr: "خدمة السحب" },
-  { icon: "fa-solid fa-clock", label: "24 Hour Service", labelAr: "خدمة 24 ساعة" },
+  { icon: "fa-solid fa-car-battery", label: "Jumpstart Service", labelAr: "خدمة تشغيل البطارية" },
   { icon: "fa-solid fa-triangle-exclamation", label: "Emergency Towing", labelAr: "سحب طوارئ" },
   { icon: "fa-solid fa-car-burst", label: "Accident Recovery", labelAr: "استرجاع الحوادث" },
   { icon: "fa-solid fa-headset", label: "24/7 Support", labelAr: "دعم على مدار الساعة" },
@@ -29,7 +29,7 @@ const strip = [
 const featuredSlugs = [
   "car-recovery-sharjah",
   "towing-service-sharjah",
-  "24-hour-car-recovery-sharjah",
+  "jumpstart-service-sharjah",
   "emergency-towing-sharjah",
   "roadside-assistance-sharjah",
   "accident-recovery-sharjah",
